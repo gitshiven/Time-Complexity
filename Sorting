@@ -1,1 +1,5 @@
 . Merge sort is faster than selection sort                                    (Coding Ninjas)
+. Time complexity of Insertion sort O(n^2)
+. Time complexity of Bubble sort O(n^2)
+. "         "      " Linear Search O(n)
+. Best scenario for selection sort is O(n^2)
